@@ -55,7 +55,11 @@ Así arrancó la charla de **Jorge Raze**, donde se reflexionó sobre cómo se c
 
 ### Arturo Adrián Ramírez — Software libre como manifiesto de resistencia en la FARO
 
-**Arturo Adrián Ramírez** presentó el software libre y de código abierto como un acto de resistencia cultural y tecnológica en el espacio de la FARO.
+**Arturo Adrián Ramírez** presentó el software libre y de código abierto como un acto de resistencia cultural y tecnológica en el espacio de la FARO. Su intervención tomó la forma de un manifiesto poético estructurado en tres puntos: **crear y hacer**, aprendiendo del error sin miedo a equivocarse, porque nadie nace experto y el primer kernel corrupto o pantallazo azul es parte del camino; **ayudar y colaborar**, entendiendo la enseñanza como un acto de amor rebelde en tiempos donde lo rentable se impone a lo útil; y **luchar y proteger**, resistir y revelarse como quien revela una fotografía en un cuarto oscuro, tomando el software libre como arma sin fusil frente a la modernidad privativa de suscripciones, obsolescencia programada y código ofuscado.
+
+El manifiesto retrata la FARO como un faro en el río del aprendizaje: una barca de software libre que no se hunde cuando el soporte desaparece ni cambia sus términos de la noche a la mañana. Frente a quienes presumen su lancha más rápida o su distro más bonita, el texto recuerda que el marinero con más viajes ha permanecido en el mismo barco diseñado para funcionar y servir al mundo. La consigna final es clara: seguir siendo y queriendo, tomando y haciendo, en un espacio donde todas y todos puedan ser libres de las cadenas que limitan la creatividad.
+
+[:page_facing_up: Leer el manifiesto completo (PDF)](./Faro%20Indios%20Verdes/Manifiesto_de_software_libre_y_de_codigo_abierto_como_resistencia.pdf)
 
 ### Puesto de instalaciones
 
