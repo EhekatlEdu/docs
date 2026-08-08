@@ -14,7 +14,7 @@ Encuentro de software libre con 9 ponencias durante todo el día: Alex Callejas 
 
 ## Sesiones
 
-### [:clipboard: Laboratorio Software Libre Ehekatl — Reunión 9 de julio de 2026](./sesiones/Laboratorio%20Software%20Libre_%20Ehekatl%20__%20Reunio%CC%81n%209%20de%20julio%20de%202026.md)
+### [:clipboard: Laboratorio Software Libre Ehekatl — Reunión 9 de julio de 2026](./sesiones/Laboratorio_Software_Libre_Ehekatl_9_julio_2026.md)
 
 Sesión fundacional del laboratorio donde se definieron los pilares educativos, la estructura de gobernanza y la estrategia pedagógica. Se acordó un enfoque de talleres cortos (<3h) sobre cursos extensos, un modelo agnóstico de distribuciones Linux priorizando hardware estandarizado, y la centralización inicial de documentación en Google Drive. Participaron Raúl González, Omar Sansi, Isabel Velázquez, alich, Ricardo Torres y Carlos C.
 
