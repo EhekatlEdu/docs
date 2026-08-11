@@ -8,6 +8,10 @@ Repositorio de documentación del colectivo Ehekatl. Registro de eventos, sesion
 
 Sede del Festival Latinoamericano de Instalación de Software Libre en el Centro Cultural Emiliano Zapata. Primera edición en un barrio de Ecatepec con ponencias de Ivan, Gibran, Alex Callejas, Raul Gonzalez y Janik, más una presentación del proyecto Ehekatl sobre laboratorios de software libre frente a las tecno-oligarquías.
 
+### [:art: Radio Nopal × Ehekatl — Convivio de Software Libre para Artistas](./convivios/Radio%20Nopal.md)
+
+Convivio autogestivo en Radio Nopal (San Rafael, CDMX) donde el arte se cruzó con el código libre. Taller de introducción a herramientas abiertas con práctica de p5.js (código creativo) y SuperCollider (sonido). Sin requisitos de experiencia previa. Cupo lleno.
+
 ### [:calendar: Tianguis Digital — FARO Indios Verdes 2026](./convivios/Faro%20Indios%20Verdes.md)
 
 Encuentro de software libre con 9 ponencias durante todo el día: Alex Callejas (Kubernetes en equipos pequeños), Raúl González (IA soberana con Tor y llama.cpp), Mario Martínez (Inkscape), Gadiel Guillen (Linux Ricing), Ricardo Torres (GIMP 3.0), Gerardo García (ciberseguridad), Jorge Raze (protocolos de comunicación humano-IA) y Arturo Adrián Ramírez (manifiesto de resistencia). Incluye puesto de instalaciones abierto al público.
