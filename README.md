@@ -4,6 +4,10 @@ Repositorio de documentación del colectivo Ehekatl. Registro de eventos, sesion
 
 ## Convivios
 
+### [:book: ¿Qué es un convivio y cómo organizarlo?](./convivios/Convivios.md)
+
+Los convivios de software libre son eventos comunitarios, gratuitos y colaborativos orientados a liberar dispositivos y conocimiento. Incluye los seis pasos para pasar de la idea a la realización de un encuentro exitoso.
+
 ### [:calendar: FLISOL Ecatepec 2026](./convivios/FLISOL_Ecatepec.md)
 
 Sede del Festival Latinoamericano de Instalación de Software Libre en el Centro Cultural Emiliano Zapata. Primera edición en un barrio de Ecatepec con ponencias de Ivan, Gibran, Alex Callejas, Raul Gonzalez y Janik, más una presentación del proyecto Ehekatl sobre laboratorios de software libre frente a las tecno-oligarquías.
