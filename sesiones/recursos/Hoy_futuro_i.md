@@ -22,6 +22,10 @@ gitGraph
 
     checkout main
     merge develop
+    checkout develop
     merge feature
+    checkout main
+    merge develop
+
     commit id: "Modelo de Labsl v1.0"
 ```
